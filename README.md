@@ -1,5 +1,5 @@
 # Car Info UK
-Telegram bot providing car details from DVLA database<br>
+Telegram bot providing car details from DVLA database<br><br>
 ![preview](preview.jpg)
 ## Development
 Tools used:
