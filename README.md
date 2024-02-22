@@ -1,6 +1,6 @@
 # Car Info UK
 Telegram bot providing car details from DVLA database<br>
-![alt text](https://github.com/Heathro/CarInfoUK/blob/master/preview.jpg?raw=true)
+![preview](preview.jpg)
 ## Development
 Tools used:
 1. C#
